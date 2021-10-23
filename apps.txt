@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 game to code
-=======
 fav_movies
->>>>>>> movies
+
